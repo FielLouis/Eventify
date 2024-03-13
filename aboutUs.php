@@ -9,12 +9,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>About Us | Eventify</title>
         <link rel="stylesheet" href="css/css.css">
+        
     </head>
 
     <body>
         <div class="center-wrapper">
             <section class="PageContent">
-                <h1 class="header-aboutUs">About Us</h1>
+                <h1 class="header-aboutUs padding3em">About Us</h1>
                 <div class="flex-wrapper">
                     <div class="leftChild">
                         <p class="p-content">
@@ -89,7 +90,7 @@
                                 <br>
                                 <span class="text-address">Cebu City, 6000 Cebu</span>
                                 <br>
-                                <span class="text-address">office@eventify.com</span>
+                                <span class="text-address">office_main@eventify.com</span>
                                 <br>
                             </address>
                         </section>
